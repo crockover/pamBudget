@@ -1,0 +1,29 @@
+﻿Category,Category 2,Sub Category,Description,Amount
+Income,Pam,Income Pam,Pamela_job,1335
+Income,Pam,Income Pam,Pamela_SSA,947
+Income,Gary,Income Gary,Gary_SSA,1560
+Income,Gary,Income Gary,Gary_Pension,720
+Necessities,Food,Necessities Food,Groceries,600
+Necessities,Car,Necessities Car,Gas (car),240
+Necessities,Health,Necessities Health,Healthcare & Perscriptions,200
+Necessities,Home,Necessities Home,Electric (home),190
+Necessities,Home,Necessities Home,Gas (home),155
+Necessities,Car,Necessities Car,Car Insurance,127
+Necessities,Home,Necessities Home,Home Insurance,85
+Necessities,Car,Necessities Car,Car Maintenance,65
+Necessities,Home,Necessities Home,Water (home),65
+Necessities,Home,Necessities Home,Cell Phone,50
+Necessities,Home,Necessities Home,Property Tax,50
+Necessities,Home,Necessities Home,Trash (home),20
+Necessities,Health,Necessities Health,Medicare Insurance,180
+Necessities,Home,Necessities Home,Internet,65
+Nice-to-haves,Food,Nice-to-haves Food,Eat out,110
+Nice-to-haves,Gifts,Nice-to-haves Gifts,Gifts to others,200
+Nice-to-haves,Shopping,Nice-to-haves Shopping,General Shopping,85
+Nice-to-haves,Food,Nice-to-haves Food,Coffee and Snacks,50
+Nice-to-haves,Entertainment,Nice-to-haves Entertainment,Amazon Prime,15
+Nice-to-haves,Entertainment,Nice-to-haves Entertainment,Netflix,16
+Nice-to-haves,Food,Nice-to-haves Food,Sam's Club,110
+Nice-to-haves,Entertainment,Nice-to-haves Entertainment,Other Subscription (apps),20
+Savings,High-yield,Savings High-yield,Schwab,1491.2
+Savings,Checking,Savings Checking,Checking,372.8
